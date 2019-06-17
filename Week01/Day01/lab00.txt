@@ -1,0 +1,14 @@
+In the planets.py file, add code to implement the functionality shown by the following sample run:
+Sample Run :
+What do you weigh on e a r t h ? 136
+On Mars you would weigh 5 1. 6 8 pounds .
+On J u pi t e r you would weigh 3 1 8. 2 4 pounds .
+Important Information and Requirements:
+• To calculate a person’s weight on Mars, multiple their weight on earth by 0.38.
+• To calculate a person’s weight on Jupiter, multiple their weight on earth by 2.34.
+• Your output must match my sample output exactly. Make sure there is a blank line in between
+prompting for the user’s weight and displaying the results.
+• Your program may use a “cast” only one time.
+– Talk to me if you don’t know what this means.
+• Your program may only use the print function once.
+• Run the unit tests in planets_tests.py to check your solution!
